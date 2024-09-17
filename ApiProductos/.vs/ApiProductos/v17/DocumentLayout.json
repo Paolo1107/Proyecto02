@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ApiProductos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37448186-7901-4A14-96FD-76FFD895C242}|ApiProductos.csproj|c:\\users\\lenov\\onedrive\\documents\\ejercicios2024\\segundocuatri\\apis\\protectopractica_02\\apiproductos\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37448186-7901-4A14-96FD-76FFD895C242}|ApiProductos.csproj|solutionrelative:controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37448186-7901-4A14-96FD-76FFD895C242}|ApiProductos.csproj|c:\\users\\lenov\\onedrive\\documents\\ejercicios2024\\segundocuatri\\apis\\protectopractica_02\\apiproductos\\models\\articulomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37448186-7901-4A14-96FD-76FFD895C242}|ApiProductos.csproj|solutionrelative:models\\articulomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ApiProductos\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ApiProductos\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "Controllers\\ArticuloController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:07:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloModels.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ApiProductos\\Models\\ArticuloModels.cs",
+              "RelativeDocumentMoniker": "Models\\ArticuloModels.cs",
+              "ToolTip": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ApiProductos\\Models\\ArticuloModels.cs",
+              "RelativeToolTip": "Models\\ArticuloModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:06:58.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

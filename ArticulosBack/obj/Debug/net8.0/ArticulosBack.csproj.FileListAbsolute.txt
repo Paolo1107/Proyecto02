@@ -1,0 +1,14 @@
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\bin\Debug\net8.0\ArticulosBack.deps.json
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\bin\Debug\net8.0\ArticulosBack.dll
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\bin\Debug\net8.0\ArticulosBack.pdb
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ArticulosBack.csproj.AssemblyReference.cache
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ArticulosBack.Properties.Resources.resources
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ArticulosBack.csproj.GenerateResource.cache
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ArticulosBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ArticulosBack.AssemblyInfoInputs.cache
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ArticulosBack.AssemblyInfo.cs
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ArticulosBack.csproj.CoreCompileInputs.cache
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ArticulosBack.dll
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\refint\ArticulosBack.dll
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ArticulosBack.pdb
+C:\Users\lenov\OneDrive\Documents\Ejercicios2024\SegundoCuatri\APIs\ArticulosBack\obj\Debug\net8.0\ref\ArticulosBack.dll
