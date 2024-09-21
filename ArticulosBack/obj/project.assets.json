@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ArticulosBack\\ArticulosBack.csproj",
+      "projectUniqueName": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProyectoPractica_02\\ArticulosBack\\ArticulosBack.csproj",
       "projectName": "ArticulosBack",
-      "projectPath": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ArticulosBack\\ArticulosBack.csproj",
+      "projectPath": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProyectoPractica_02\\ArticulosBack\\ArticulosBack.csproj",
       "packagesPath": "C:\\Users\\lenov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ArticulosBack\\obj\\",
+      "outputPath": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProyectoPractica_02\\ArticulosBack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenov\\AppData\\Roaming\\NuGet\\NuGet.Config",

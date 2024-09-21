@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "14AIhXyx0kA=",
+  "dgSpecHash": "AGm+5rj3NQo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ArticulosBack\\ArticulosBack.csproj",
+  "projectFilePath": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProyectoPractica_02\\ArticulosBack\\ArticulosBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenov\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\lenov\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

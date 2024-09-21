@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cqjTqppCjdw=",
+  "dgSpecHash": "z+J1arPwDaA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProtectoPractica_02\\ApiProductos\\ApiProductos.csproj",
+  "projectFilePath": "C:\\Users\\lenov\\OneDrive\\Documents\\Ejercicios2024\\SegundoCuatri\\APIs\\ProyectoPractica_02\\ApiProductos\\ApiProductos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\lenov\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
