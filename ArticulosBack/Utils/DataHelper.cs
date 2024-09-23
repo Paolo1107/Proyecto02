@@ -96,6 +96,48 @@ namespace ArticulosBack.Utils
             return _connection;
         }
 
+        //public int ExecuteTransaction(string sp, List<SqlParameterss>? parametros, SqlConnection connection, SqlTransaction transaction, object parameterOut = null)
+        //{
+        //    int filasAfectadas = 0;
 
+        //    SqlCommand cmd = new SqlCommand(sp, _connection, transaction);
+        //    cmd.CommandType = CommandType.StoredProcedure;
+        //    if (parametros != null)
+        //    {
+        //        foreach (var param in parametros)
+        //        {
+        //            cmd.Parameters.AddWithValue(param.Name, param.Value.ToString());
+        //        }
+
+        //        if (parameterOut != null)
+        //        {
+        //            var outParam = new SqlParameter("outParam", SqlDbType.Int)
+        //            {
+        //                Direction = ParameterDirection.Output,
+        //            };
+        //            cmd.Parameters.Add(outParam);
+        //        }
+        //        try
+        //        {
+        //            filasAfectadas = cmd.ExecuteNonQuery();
+        //            if (parameterOut != null)
+        //            {
+        //                parameterOut = cmd.Parameters["@outputParam"].Value;
+        //            }
+        //        }
+        //        catch (SqlException ex)
+        //        {
+        //            Console.WriteLine($"Error al ejecutar el procedimiento almacenado: {ex.Message}");
+        //        }
+        //        finally
+        //        {
+        //            if (_connection != null && _connection.State == ConnectionState.Open)
+        //            {
+        //                _connection.Close();
+        //            }
+        //        }
+        //    }
+        //    return filasAfectadas;
+        //}
     }
 }
